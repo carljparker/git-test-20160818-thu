@@ -1,0 +1,6 @@
+
+This is a modified version of file 1.
+
+
+*** END ***
+
